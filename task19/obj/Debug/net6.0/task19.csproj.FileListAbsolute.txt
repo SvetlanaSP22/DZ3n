@@ -1,0 +1,15 @@
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\bin\Debug\net6.0\task19.exe
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\bin\Debug\net6.0\task19.deps.json
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\bin\Debug\net6.0\task19.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\bin\Debug\net6.0\task19.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\task19.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\refint\task19.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\task19.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\Geek Brains\РАЗРАБОТЧИК\1 четверть\Знакомство с языками программирования C#\ДЗ\ДЗ3\DZ3\task19\obj\Debug\net6.0\ref\task19.dll
